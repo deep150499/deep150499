@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deep</h1>
 <h3 align="center">A passionate Frontend Developer currently in Canada</h3>
 
-- 🔭 I’m currently working on **Typescript , React and Next.js**
+- 🔭 I’m currently working on **Javascript, Typescript, React and Next.js**
 
 - 💬 Ask me about **Front End Development**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deep-nanavati-b0b327276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="deep-nanavati-b0b327276" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deep-nanavati-b0b327276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep-nanavati-b0b327276" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
