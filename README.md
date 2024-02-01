@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deep</h1>
 <h3 align="center">A passionate Frontend Developer currently in Canada</h3>
 
-- 🔭 I’m currently working on **Typescript , React and Next.js**
+- 🔭 I’m currently working on **React, Typescript and Next.js**
 
 - 💬 Ask me about **Front End Development**
 
